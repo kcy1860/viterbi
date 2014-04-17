@@ -1,0 +1,12 @@
+## This is a weekly assignment in AI class @Dartmouth College
+
+## An brief explanation of the code and algorithm is included in the root path 'ProbabilisticReasoning.pdf' 
+
+
+Build&Run
+- This is a standard Eclipse project. You can download, open and run with an eclipse IDE.
+- You need a JDK1.8+ to compile and run the code.
+
+- The main entrance is in 'Driver.java'
+- The implementation of the algorithms is mainly in 'PRSolver.java'. 
+  Most of other classes are just for UI or Utility functions.
